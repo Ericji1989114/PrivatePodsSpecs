@@ -29,5 +29,25 @@ $ pod repo lint .
 pod repo push {spec name} {podspec path} --allow-warnings
 ```
 
+## How to import the pod
+
+In Podfile, you must define the path of framework
+
+```
+source "https://github.com/Ericji1989114/PrivatePodsSpecs.git"
+
+```
+And then for example
+
+```
+# Pods for Example
+pod 'YjiModule1'
+
+```
+
+
+You can refer to the following link:
+
+https://github.com/Ericji1989114/PrivatePodsModules/tree/develop
 
 
