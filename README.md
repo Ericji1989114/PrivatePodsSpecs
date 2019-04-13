@@ -19,7 +19,7 @@ pod repo add {spec name} {git repository path}
 Then you can check 
 
 ```
-$ cd ~/.cocoapods/repos/artsy-specs
+$ cd ~/.cocoapods/repos/{spec name}
 $ pod repo lint .
 ```
 
