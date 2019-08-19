@@ -41,7 +41,7 @@ And then for example
 
 ```
 # Pods for Example
-pod 'YjiModule1'
+pod 'YjiPodModule'
 
 ```
 
