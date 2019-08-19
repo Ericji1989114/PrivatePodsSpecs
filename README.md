@@ -48,6 +48,6 @@ pod 'YjiModule1'
 
 You can refer to the following link:
 
-https://github.com/Ericji1989114/PrivatePodsModules/tree/develop
+https://github.com/Ericji1989114/YjiPodModule/tree/1.0.0
 
 
