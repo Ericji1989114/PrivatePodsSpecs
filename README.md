@@ -26,7 +26,7 @@ $ pod repo lint .
 ### 3. Add your Podspec to your repo
 
 ```
-pod repo push {spec name} {podspec path} --allow-warnings
+pod repo push --allow-warnings {spec name} {podspec path}
 ```
 
 ## How to import the pod
