@@ -21,7 +21,10 @@ s.dependency 'SnapKit'
 s.dependency 'Alamofire'
 
 s.resource_bundle = {
-'YjiPodModuleBundle' => ['YjiPodModule/Resource/*']
+'YjiPodModule' => ['YjiPodModule/Resource/*']
 }
+
+#s.resources = 'YjiPodModule/**/*.{png,storyboard,xcassets}'
+#s.resources = 'YjiPodModule/Resource/YjiPodModuleBundle.bundle'
 
 end
