@@ -40,11 +40,16 @@ source "https://github.com/Ericji1989114/PrivatePodsSpecs.git"
 And then for example
 
 ```
-# Pods for Example
+# Import pod
 pod 'YjiPodModule'
 
 ```
 
+```
+# Local test
+pod 'YjiPodModule', :path => '../../Downloads/YjiPodModule'
+
+```
 
 You can refer to the following link:
 
