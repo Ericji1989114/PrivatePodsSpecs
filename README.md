@@ -53,6 +53,6 @@ pod 'YjiPodModule', :path => '../../Downloads/YjiPodModule'
 
 You can refer to the following link:
 
-https://github.com/Ericji1989114/YjiPodModule/tree/1.0.0
+https://github.com/Ericji1989114/YjiPodModule/tree/master
 
 
